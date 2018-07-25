@@ -3,7 +3,7 @@ def simple_curfew_checker(time)
     puts "Apparate"
   end
 end
-
+simple_curfew_checker(0)
 def curfew_checker(time)
   if time >= 23
     puts "Apparate"
